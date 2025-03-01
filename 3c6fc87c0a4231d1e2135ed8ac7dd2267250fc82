@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "24fb0d31_e267ff07",
+        "filename": "res/layout/qs_section.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2025-03-01T12:48:20Z",
+      "side": 1,
+      "message": "copyright header at beginning?",
+      "revId": "3c6fc87c0a4231d1e2135ed8ac7dd2267250fc82",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "813edb47_97fcd6fe",
+        "filename": "res/layout/qs_section.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2025-03-01T12:48:20Z",
+      "side": 1,
+      "message": "newline at end",
+      "revId": "3c6fc87c0a4231d1e2135ed8ac7dd2267250fc82",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "30559ef0_67994e84",
+        "filename": "res/values-uk/f104a_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2025-03-01T12:48:20Z",
+      "side": 1,
+      "message": "remove file, we handle translations via crowdin",
+      "revId": "3c6fc87c0a4231d1e2135ed8ac7dd2267250fc82",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2c0693ed_5e1bc568",
+        "filename": "res/values/f104a_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2025-03-01T12:48:20Z",
+      "side": 1,
+      "message": "lineage_strings.xml",
+      "revId": "3c6fc87c0a4231d1e2135ed8ac7dd2267250fc82",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8b797f64_cbde57c0",
+        "filename": "res/values/f104a_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2025-03-01T12:48:20Z",
+      "side": 1,
+      "message": "newline at end",
+      "revId": "3c6fc87c0a4231d1e2135ed8ac7dd2267250fc82",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "836dc6a6_bc083970",
+        "filename": "src/com/android/customization/picker/qs/ui/view/QSSectionView.kt",
+        "patchSetId": 3
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2025-03-01T12:48:20Z",
+      "side": 1,
+      "message": "newline at end",
+      "revId": "3c6fc87c0a4231d1e2135ed8ac7dd2267250fc82",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f2a1c473_c101cfaf",
+        "filename": "src/com/android/customization/picker/qs/ui/viewmodel/QSSectionViewModel.kt",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2025-03-01T12:48:20Z",
+      "side": 1,
+      "message": "https://kotlinlang.org/docs/coding-conventions.html#horizontal-whitespace",
+      "revId": "3c6fc87c0a4231d1e2135ed8ac7dd2267250fc82",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3a9e3d98_dfb355c1",
+        "filename": "src/com/android/customization/picker/qs/ui/viewmodel/QSSectionViewModel.kt",
+        "patchSetId": 3
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2025-03-01T12:48:20Z",
+      "side": 1,
+      "message": "this large space and \"as T\" in a separate line is intended?",
+      "revId": "3c6fc87c0a4231d1e2135ed8ac7dd2267250fc82",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
